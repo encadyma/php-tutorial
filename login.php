@@ -7,7 +7,7 @@
 <body>
 	<div class="container" style="padding: 40px 0;">
 		<h1>Login</h1>
-		<form style="width: 60%; margin: 0 auto;" method="POST" action="submitpost.php">
+		<form style="width: 60%; margin: 0 auto;" method="POST" action="handlelogin.php">
 			<div class="input-group">
 				<input name="username" class="form-control" type="text" placeholder="Username" style="margin-top: 20px;"/>
 			</div>
